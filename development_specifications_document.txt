@@ -1,0 +1,22 @@
+Client Details : 
+Name - Prakriti Chakraborty
+Designation : LIC Intermediary/Agent
+Agent Code : 0349849E55555
+Contact : 9436139252
+email : prakritichakraborty1957@gmail.com
+Address: Tahkur Palli lane, Sankar Chowmuhani, Agartala, Tripura(West) 
+
+General Client Requirements for the website : 
+This will be his personal portfolio website from where He will generate leads to get more customer enquiry for him to sell more Policies.
+customers should be able to contact him through whatsapp, mobile and mail which should be made available in the site through interactive buttons. 
+The page should showcase his achievements. 
+The page should showcase LIC's Jeevan Utsav plan as the main highlight followed by 4 other top selling plans of LIC.
+The landing page will use MR prakriti chakraborty's Image in the most creative way as possible. 
+The page should contain description section about Mr Prakriti Chakraborty. 
+This should also contain a gallery section which shall hold some images of Mr Prakriti's Acheievements over the years. 
+The should contain a footer section with copyright, contact fields.
+
+Technical Specificatuions: 
+Tech Stack to be used - Node.js, React.js, Next.js.
+Frontend Design style to be used - combine Neumorphism(for UI Cards & Calculators) with 3D Inflated Icons(For Hero section and policy benifits).
+Color schema to be used : Something Aesthetic , cool to the eyes , Perfect for both youngers and elders to engage.
